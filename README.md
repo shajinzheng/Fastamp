@@ -1,5 +1,6 @@
 # Fastamp 
 Dartmouth COSC 189 Computational Fabrication Final Project  
+
 We are trying to fabricate a higly personalized stamp with user's 3D reconstructed face model as the stamp handler, and cartoonifed facial expression as the mark.
 
 This repo provides a way to reconstructed user's 3D face model based on captured setup images and a 3D facial expression database[1]. The original idea comes from [2].  
