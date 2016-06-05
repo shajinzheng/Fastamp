@@ -11,4 +11,4 @@ Just executing `setup.m` will apply the two-step fitting approach
 4. http://kunzhou.net/2013/vface.pdf
 
 # Note
-Since `data` folder includes personal information, it is not included in the repo. If you are interested and want to use it, please email me for downloading link.
+Since `data` folder includes personal information, content is not included in the repo. If you are interested and want to use it, please email me for downloading link.
